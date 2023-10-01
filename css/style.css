@@ -82,6 +82,10 @@ span {
   cursor: pointer;
 }
 
+.top-arrow:hover {
+  color: var(--color-pink);
+}
+
 
 @media (max-width: 768px) {
   .hide-on-mobile {
